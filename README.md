@@ -2,7 +2,7 @@ Title: Word Puzzle
 
 by: Steven Francisco
 
-It will remove all vowels from a given word or phrase.
+This app will remove all vowels from a given word or phrase.
 
 Built using Ruby ver.: ruby 2.2.0p0 (2014-12-25 revision 49005) [x86_64-darwin14]
 
