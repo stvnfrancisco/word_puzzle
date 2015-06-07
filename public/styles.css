@@ -2,3 +2,12 @@ body {
   background-image: url(https://wordinspiration.files.wordpress.com/2014/11/words-1.jpg);
   background-size: 1300px;
 }
+
+h2 {
+  font-size: 100px;
+  color: #4f1636;
+}
+
+a {
+  font-size: 75px;
+}
